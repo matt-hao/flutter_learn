@@ -1,16 +1,5 @@
 # light_dark_theme_switch
 
-A new Flutter project.
+A new Flutter project to test light dark theme mode switch.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Recording - iPhone 15 Pro - 2024-03-09 at 19.52.21.gif](..%2F..%2F..%2FDesktop%2FSimulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202024-03-09%20at%2019.52.21.gif)
